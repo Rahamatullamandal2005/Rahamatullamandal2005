@@ -1,6 +1,6 @@
 [![MasterHead](https://cutshort.io/_next/image?url=https%3A%2F%2Fcutshort.io%2Fblog%2Fwp-content%2Fuploads%2F2018%2F04%2Fbd1e5c2457278a37313c55ce8c887aa3.jpg&w=3840&q=75)](https://Rahamatullamandal2005.io)
 <h1 align="center">Hi 👋, I'm RAHAMATULLA MANDAL</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Java developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahamatullamandal2005&label=Profile%20views&color=0e75b6&style=flat" alt="rahamatullamandal2005" /> </p>
 
